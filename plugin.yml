@@ -1,0 +1,17 @@
+name: BetterHub
+main: MulqiGaming64\BetterHub\BetterHub
+version: 1.0.0
+api: 3.0.0
+description: a BetterHub, now you can cancel hub request by Move, and vip hub Support
+author: MulqiGaming64
+
+permissions:
+ betterhub.vip:
+  default: op
+  description: "custom hub for VIP"
+ betterhub.sethub:
+  default: op
+  description: "SetHub In Your Server"
+ betterhub.setviphub:
+  default: op
+  description: "SetHub For VIP"
