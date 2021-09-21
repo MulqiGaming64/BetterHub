@@ -1,0 +1,27 @@
+---
+# BetterHub Config
+
+# VIP Hub
+# Permission betterhub.vip
+vip-enable: true
+
+# Delay Hub
+# Seconds
+delay: 5
+
+# Tag Message
+# {name} Name Player
+
+# Message
+# Teleport Message
+hub-message: "§aTeleporting To Hub please wait 5 seconds, if you move then the hub is cancelled"
+
+# Teleporting Message:
+teleporting-message: "§ayou are Teleporting, Please Wait"
+
+# Cancel Hub Message
+cancel-message: "§ayou have canceled Teleport To Hub"
+
+# Teleported Message
+teleport-message: "§aTeleported To Hub"
+...
